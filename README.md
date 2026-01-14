@@ -49,7 +49,7 @@ Follow the steps below to apply this minimalistic setup in your VS Code:
 - Press **F1** (or `Ctrl + Shift + P`)
 
 ### 3️⃣ Open User Settings (JSON)
-- Search for:
+- Search for: Open User Settings (JSON)
 
 
 ### 4️⃣ Paste and save
