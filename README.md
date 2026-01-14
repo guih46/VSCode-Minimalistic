@@ -36,3 +36,26 @@ Make sure you have the following extensions installed:
   🔗 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 ---
+
+### 📥 How to Install
+
+Follow the steps below to apply this minimalistic setup in your VS Code:
+
+### 1️⃣ Copy the settings
+- Copy the content inside the `settings.json` file from this repository
+
+### 2️⃣ Open Command Palette
+- Open **Visual Studio Code**
+- Press **F1** (or `Ctrl + Shift + P`)
+
+### 3️⃣ Open User Settings (JSON)
+- Search for:
+
+
+### 4️⃣ Paste and save
+- Paste the copied content into the file
+- Save the file
+
+✅ Done! Your VS Code is now using the **VSCode Minimalistic** setup ✨
+
+
