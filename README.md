@@ -8,9 +8,9 @@ Perfect for developers who love a **simple interface**, distraction-free coding 
 
 ## 🖼️ Preview
 
-> _A minimalist setup inspired by GitHub's design language._
-
-_(Add screenshots here if you want)_
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1305301723958743151/1461067043100037231/image.png?format=webp&quality=lossless" alt="VSCode Minimalistic Preview" width="900"/>
+</p>
 
 ---
 
