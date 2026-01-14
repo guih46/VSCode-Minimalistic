@@ -9,9 +9,8 @@ Perfect for developers who love a **simple interface**, distraction-free coding 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1305301723958743151/1461067043100037231/image.png?format=webp&quality=lossless" alt="VSCode Minimalistic Preview" width="900"/>
+  <img src="./imagem.png" alt="VSCode Minimalistic Preview" width="900">
 </p>
-
 ---
 
 ## 🚀 Features
