@@ -9,7 +9,7 @@ Perfect for developers who love a **simple interface**, distraction-free coding 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="./imagem.png" alt="VSCode Minimalistic Preview" width="900">
+  <img src="./image.png" alt="VSCode Minimalistic Preview" width="900">
 </p>
 ---
 
