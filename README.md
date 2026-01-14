@@ -44,7 +44,7 @@ Follow the steps below to apply this minimalistic setup in your VS Code:
 ### 1️⃣ Copy the settings
 - Copy the content inside the `settings.json` file from this repository
 
-### 2️⃣ Open Command Palette
+### 2️⃣ Open VSCODE
 - Open **Visual Studio Code**
 - Press **F1** (or `Ctrl + Shift + P`)
 
