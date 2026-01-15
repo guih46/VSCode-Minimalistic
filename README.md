@@ -27,21 +27,23 @@ Perfect for developers who love a **simple interface**, distraction-free coding 
 
 ---
 
-## 📦 Requirements
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=📦+Requirements;📦+Requirements)](https://git.io/typing-svg)
 
 Make sure you have the following extensions installed:
 
-### 🎨 Theme
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🎨+Theme;🎨+Theme)](https://git.io/typing-svg)
+ 
 - **GitHub Theme**  
   🔗 https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
 
-### 🗂️ Icons
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🗂️+Icons;🗂️+Icons)](https://git.io/typing-svg)
+
 - **Material Icon Theme**  
   🔗 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 ---
 
-### 📥 How to Install
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=📥+How+to+Install;📥+How+to+Install)](https://git.io/typing-svg)
 
 Follow the steps below to apply this minimalistic setup in your VS Code:
 
