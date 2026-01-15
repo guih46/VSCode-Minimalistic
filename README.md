@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9A84F1&height=120&section=header"/>
+
 # 🎨 VSCode Minimalistic
 
 A **clean, modern and minimalistic Visual Studio Code setup** focused on productivity, readability and a smooth developer experience.
