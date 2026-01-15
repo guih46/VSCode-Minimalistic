@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9A84F1&height=120&section=header"/>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A84F1&size=35&center=true&vCenter=true&width=1000&lines=VSCode+Minimalistic;VSCode+Minimalistic)](https://git.io/typing-svg)
 # 🎨 VSCode Minimalistic
 
 A **clean, modern and minimalistic Visual Studio Code setup** focused on productivity, readability and a smooth developer experience.
