@@ -23,7 +23,7 @@
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "line",
   "editor.fontFamily": "Dank Mono",
-  "editor.fontSize": 14,
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
   "editor.lineHeight": 2.5,
   "editor.tokenColorCustomizations": {
@@ -60,7 +60,8 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.overviewRulerBorder": false,
   "editor.hideCursorInOverviewRuler": true,
-
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
 
   //"workbench.activityBar.location": "hidden" //barra lateral
   "workbench.statusBar.visible": false, //barrinha de baixo
