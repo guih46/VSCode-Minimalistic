@@ -48,7 +48,7 @@
   "files.insertFinalNewline": true,
   "scm.diffDecorations": "none",
   "editor.lineNumbers": "on",
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.detectIndentation": false,
   "editor.showFoldingControls": "never",
   "editor.guides.indentation": false,
