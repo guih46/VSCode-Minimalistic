@@ -1,73 +1,73 @@
-# 🎨 VS Code Minimalista
+# 🎯 VS Code Minimalist
 
-Uma configuração personalizada do **Visual Studio Code**, desenvolvida para oferecer um ambiente de programação mais limpo, organizado e agradável.
+A customized **Visual Studio Code** setup designed to provide a clean, organized and comfortable coding environment.
 
-O objetivo é manter apenas o necessário, priorizando a produtividade, a boa leitura do código e uma interface visualmente agradável.
+Focused on simplicity, readability and productivity, with a modern appearance and only the essentials.
 
 ---
 
-## 🖼️ Prévia
+## 👀 Preview
 
 <p align="center">
-  <img src="./image.png" alt="Prévia do VS Code" width="900">
+  <img src="./image.png" alt="VS Code Preview" width="900">
 </p>
 
 <p align="center">
-  <img src="./image2.png" alt="Prévia do VS Code" width="900">
+  <img src="./image2.png" alt="VS Code Preview 2" width="900">
 </p>
 
 ---
 
-## ✨ Características
+## ♟️ Features
 
-- Interface limpa e minimalista.
-- Cores suaves e agradáveis aos olhos.
-- Organização visual dos arquivos.
-- Melhor experiência durante a programação.
-- Visual simples, moderno e sem distrações.
-
----
-
-## 📦 Extensões utilizadas
-
-Para obter o mesmo visual, instale as seguintes extensões:
-
-**Tema — GitHub Theme**
-
-[Instalar extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
-
-**Ícones — Material Icon Theme**
-
-[Instalar extensão](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- Clean and minimal interface.
+- Soft colors for a comfortable experience.
+- Organized file explorer.
+- Improved code readability.
+- Modern design without unnecessary distractions.
 
 ---
 
-## ⚙️ Como instalar
+## 🎱 Extensions
 
-Siga os passos abaixo para aplicar a configuração no seu VS Code.
+To get the same appearance, install the following extensions:
 
-**1. Copie as configurações**
+**Theme — GitHub Theme**
 
-Abra o arquivo `settings.json` deste repositório e copie todo o conteúdo.
+[Install Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-**2. Abra o Visual Studio Code**
+**Icons — Material Icon Theme**
 
-Utilize o atalho `Ctrl + Shift + P` para abrir a paleta de comandos.
+[Install Extension](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-**3. Acesse as configurações**
+---
 
-Pesquise por:
+## 🧩 Installation 
+
+Follow these steps to apply the configuration to your VS Code.
+
+**1. Copy the settings**
+
+Open the `settings.json` file from this repository and copy its contents.
+
+**2. Open Visual Studio Code**
+
+Press `Ctrl + Shift + P` to open the Command Palette.
+
+**3. Open User Settings**
+
+Search for:
 
 `Preferences: Open User Settings (JSON)`
 
-**4. Aplique as alterações**
+**4. Apply the configuration**
 
-Cole o conteúdo copiado no arquivo de configurações e salve.
+Paste the copied content into the settings file and save it.
 
-Pronto! Seu Visual Studio Code estará configurado com o visual deste projeto.
+That's it! Your Visual Studio Code is now configured with this setup.
 
 ---
 
 <p align="center">
-  Desenvolvido com dedicação.
+  Crafted with care.
 </p>
