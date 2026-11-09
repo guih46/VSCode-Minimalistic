@@ -1,67 +1,73 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🎨+VSCode+Minimalistic;🎨+VSCode+Minimalistic)](https://git.io/typing-svg)
+# 🎨 VS Code Minimalista
 
-A **clean, modern and minimalistic Visual Studio Code setup** focused on productivity, readability and a smooth developer experience.
+Uma configuração personalizada do **Visual Studio Code**, desenvolvida para oferecer um ambiente de programação mais limpo, organizado e agradável.
 
-Perfect for developers who love a **simple interface**, distraction-free coding and a professional look ✨
+O objetivo é manter apenas o necessário, priorizando a produtividade, a boa leitura do código e uma interface visualmente agradável.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🖼️+Preview;🖼️+Preview)](https://git.io/typing-svg)
+## 🖼️ Prévia
 
 <p align="center">
-  <img src="./image.png" alt="VSCode Minimalistic Preview" width="900">
+  <img src="./image.png" alt="Prévia do VS Code" width="900">
 </p>
 
 <p align="center">
-  <img src="./image2.png" alt="VSCode Minimalistic Preview2" width="900">
+  <img src="./image2.png" alt="Prévia do VS Code" width="900">
 </p>
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🚀+Features;🚀+Features)](https://git.io/typing-svg)
-
-- 🧼 Clean and minimal UI  
-- 🌙 Soft colors, easy on the eyes  
-- ⚡ Fast and lightweight setup  
-- 🧠 Improved focus and readability  
-- 🎯 Perfect for long coding sessions  
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=📦+Requirements;📦+Requirements)](https://git.io/typing-svg)
+## ✨ Características
 
-Make sure you have the following extensions installed:
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🎨+Theme;🎨+Theme)](https://git.io/typing-svg)
- 
-- **GitHub Theme**  
-  🔗 https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=🗂️+Icons;🗂️+Icons)](https://git.io/typing-svg)
-
-- **Material Icon Theme**  
-  🔗 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+- Interface limpa e minimalista.
+- Cores suaves e agradáveis aos olhos.
+- Organização visual dos arquivos.
+- Melhor experiência durante a programação.
+- Visual simples, moderno e sem distrações.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=📥+How+to+Install;📥+How+to+Install)](https://git.io/typing-svg)
+## 📦 Extensões utilizadas
 
-Follow the steps below to apply this minimalistic setup in your VS Code:
+Para obter o mesmo visual, instale as seguintes extensões:
 
-### 1️⃣ Copy the settings
-- Copy the content inside the `settings.json` file from this repository
+**Tema — GitHub Theme**
 
-### 2️⃣ Open VSCODE
-- Open **Visual Studio Code**
-- Press **F1** (or `Ctrl + Shift + P`)
+[Instalar extensão](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-### 3️⃣ Open User Settings (JSON)
-- Search for: Open User Settings (JSON)
+**Ícones — Material Icon Theme**
 
+[Instalar extensão](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-### 4️⃣ Paste and save
-- Paste the copied content into the file
-- Save the file
+---
 
-✅ Done! Your VS Code is now using the **VSCode Minimalistic** setup ✨
+## ⚙️ Como instalar
 
+Siga os passos abaixo para aplicar a configuração no seu VS Code.
 
+**1. Copie as configurações**
+
+Abra o arquivo `settings.json` deste repositório e copie todo o conteúdo.
+
+**2. Abra o Visual Studio Code**
+
+Utilize o atalho `Ctrl + Shift + P` para abrir a paleta de comandos.
+
+**3. Acesse as configurações**
+
+Pesquise por:
+
+`Preferences: Open User Settings (JSON)`
+
+**4. Aplique as alterações**
+
+Cole o conteúdo copiado no arquivo de configurações e salve.
+
+Pronto! Seu Visual Studio Code estará configurado com o visual deste projeto.
+
+---
+
+<p align="center">
+  Desenvolvido com dedicação.
+</p>
